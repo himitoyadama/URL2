@@ -1,5 +1,7 @@
 # URL2
-
+Have I Been Pwned?: https://haveibeenpwned.com/
+BreachAlarm: https://breachalarm.com/
+Firefox Monitor: https://monitor.firefox.com/
 
 ①自分のの情報がダークウェブに流出していないかチェック
 https://jp.norton.com/breach-detection
